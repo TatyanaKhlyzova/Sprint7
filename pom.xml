@@ -18,19 +18,12 @@
     <allure.version>2.15.0</allure.version>
   </properties>
 
-
   <dependencies>
-  <dependency>
-    <groupId>io.rest-assured</groupId>
-    <artifactId>rest-assured</artifactId>
-    <version>5.2.0</version>
-  </dependency>
   <dependency>
     <groupId>junit</groupId>
     <artifactId>junit</artifactId>
     <version>4.13.1</version>
     <scope>test</scope>
-
   </dependency>
   <dependency>
     <groupId>com.google.code.gson</groupId>
